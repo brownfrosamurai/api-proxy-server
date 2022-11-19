@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "api-proxy-server",
-  "cleanUrls": true,
   "builds": [
      { "src": "server.js", "use": "@now/node" }
   ],
